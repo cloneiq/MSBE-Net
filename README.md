@@ -13,7 +13,7 @@ Python 3.8
 Pytorch 2.0.0
 ```
 ### Dataset 
-- downloading training dataset and move it into ```./data/TrainDataset/```. It contains two sub-datasets: Kvasir-SEG (900 train samples)[Link]([https://datasets.simula.no/kvasir/](https://datasets.simula.no/kvasir-seg/)) and CVC-ClinicDB (550 train samples)[Link](https://polyp.grand-challenge.org/CVCClinicDB/).
+- downloading training dataset and move it into ```./data/TrainDataset/```. It contains two sub-datasets: Kvasir-SEG (900 train samples)[Link](https://datasets.simula.no/kvasir-seg/) and CVC-ClinicDB (550 train samples)[Link](https://polyp.grand-challenge.org/CVCClinicDB/).
 - downloading testing dataset and move it into ```./data/TestDataset/```. It contains five sub-datsets: CVC-300 (60 test samples), CVC-ClinicDB (62 test samples), CVC-ColonDB (380 test samples)[Link](http://vi.cvc.uab.es/colon-qa/cvccolondb/), ETIS-LaribPolypDB (196 test samples)[Link](https://polyp.grand-challenge.org/ETISLarib/), Kvasir (100 test samples).
 ### Pre-trained model 
 Load pre-trained models from 
