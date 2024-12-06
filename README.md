@@ -31,7 +31,7 @@ bash test.sh
 ```
 
 ### Well-trained model 
-Loading Well-trained model from [Baidu Drive](https://pan.baidu.com/s/1dVoGXWEqcpR-T2MacWi9Vw) [code:sy0v].
+Loading Well-trained model from [link](https://github.com/yuhuan-wu/P2T).
 
 ##  License
 The source code is free for research and education use only. Any commercial use should get formal permission first.
